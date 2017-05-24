@@ -9,7 +9,7 @@
 
  
 ################################################################0
-#### 0. PRELIMINARY OPERATIONS  
+#### 0. PRELIMINARY OPERATIONS
 
 ### Remove all objects in the environment
 rm(list = ls())
