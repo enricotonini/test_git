@@ -1,7 +1,7 @@
 ################################################################
 #### Name: 3_create_unique_RData.R
 #### Description: script which imports different cleaned Sky Go datasets, bind them and save them into a unique RData
-#### Author: Enrico Tonini
+#### Author: Enrico Tonini 
 #### Co-authors: 
 #### Start date: 2017-03-08
 ### End date: 
