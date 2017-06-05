@@ -13,6 +13,7 @@
 
 ### Remove all objects in the environment
 rm(list = ls())
+# paperino
 
 ### Set working directory
 # setwd("analytics/")
